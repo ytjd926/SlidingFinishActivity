@@ -1,2 +1,2 @@
 # SlidingFinishActivity
-Slide the screen to finish an activity for Android.
+Slide to finish activity for Android.
